@@ -91,4 +91,6 @@ shuffle = () => {
   }
 }
 
+// "homepage": "https://alecji.github.io/memory-game/",
+
 export default App;
